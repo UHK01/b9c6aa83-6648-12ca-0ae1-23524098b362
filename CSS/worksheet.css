@@ -1,0 +1,27 @@
+.q {
+    font-size: 45px;
+}
+.a {
+    font-size: 45px;
+    color: red;
+}
+.link {
+    color: blue;
+    text-decoration: none;
+    font-size: 30px;
+}
+html {
+    background-color: rgb(255, 241, 162);
+}
+  img {
+    max-width: 100%;
+    height: auto;
+    }
+.download {
+    text-decoration: none;
+    color: blue;
+    font-size: 25px;
+}
+.naname {
+    font-size: 25px;
+}
